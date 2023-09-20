@@ -11,8 +11,9 @@ void setup() {
 }
 
 void draw() {
+  background(img);
   lightning(startX, startY, endX, endY, 7); 
-  noLoop(); 
+  frameRate(2);
 }
 
 void lightning(float x1, float y1, float x2, float y2, int branches) {
