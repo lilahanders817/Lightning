@@ -6,7 +6,7 @@ int endY = 780;
 
 void setup() {
   size(1200, 900);
-  img = loadImage("palpatineImage.jpeg");
+  img = loadImage("palpatineImage.jpg");
   background(img); 
 }
 
