@@ -1,5 +1,6 @@
 Lightning
 =========
+![palpatineImage](https://github.com/lilahanders817/Lightning/assets/143014915/9d0e66b3-f314-43bb-862d-bc1e60b9b8d0)
 
 One way to [simulate lightning is with a random walk](https://docs.google.com/presentation/d/1FVMky4RCdS__va05BmkkpeWqi83gpj458w98yif5H6A/edit?usp=sharing). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 27 to 58 of the [MathDotRandom](https://docs.google.com/presentation/d/1QIDFHsWJCcBlUY0kE6nmFPAsnpixxL_TZhuGlXAoKuA/edit?usp=sharing) slide presentation helpful.  
 
